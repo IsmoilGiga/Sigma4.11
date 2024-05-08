@@ -43,16 +43,10 @@
 //  console.log(natija)
 
 // 6 - vazifa
-// let sonlar = [2, 4, 9, 10, 45, 67, 8, 90, 98, 100];
-// let toq = [9, 45, 67,];
-// let juft = []
+for (let i = 2; i <= 100; i += 2) {
+    console.log(i);
+}
 
-// for (let i = 0; i < 10; i++) {
-//      if (sonlar[i] % 2 === 0) {
-//     juft.push(sonlar[i]);
-//      }
-//     }
-
-// console.log(sonlar);
-// console.log(toq);
-// console.log(juft);
+for (let i = 1; i <= 100; i += 2) {
+    console.log(i);
+}
